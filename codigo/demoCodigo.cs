@@ -22,6 +22,7 @@ public class demoCodigo : MonoBehaviour {
             f
             sadf
             
+    actualizacion ;D
             no se copenr es para poner otra acosa
 
             adf*/
