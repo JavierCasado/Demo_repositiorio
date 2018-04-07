@@ -21,18 +21,9 @@ public class demoCodigo : MonoBehaviour {
             sda
             f
             sadf
-            sd
-            af
-            sad
-            fs
-            adf
-            asd
-            f
-            sad
-            fs
-            adf
-            sad
-            fs
+            
+            no se copenr es para poner otra acosa
+
             adf*/
     }
     // Use this for initialization
